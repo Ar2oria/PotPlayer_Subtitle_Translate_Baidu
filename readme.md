@@ -1,4 +1,4 @@
-不知为何，我使用原版插件 (https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu) 会造成播放器卡死，索性删除了一些没必要的代码。
+不知为何，我使用原版插件 (https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu) 会造成播放器卡死，删除了一些代码之后解决问题。以下是使用教程，和原版有一些出入，请仔细阅读。
 
 # 声明：
 >1、这个是机器翻译。所以翻译效果肯定不是太好，不要抱太高的期望！
